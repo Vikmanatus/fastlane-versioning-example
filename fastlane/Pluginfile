@@ -1,0 +1,2 @@
+
+gem 'fastlane-plugin-automated_versioning', path: '../../fastlane-plugin-automated_versioning'

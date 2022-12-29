@@ -1,3 +1,8 @@
+PATH
+  remote: ../fastlane-plugin-automated_versioning
+  specs:
+    fastlane-plugin-automated_versioning (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -279,6 +284,7 @@ PLATFORMS
 DEPENDENCIES
   cocoapods (~> 1.11, >= 1.11.2)
   fastlane
+  fastlane-plugin-automated_versioning!
 
 RUBY VERSION
    ruby 2.7.5p203
